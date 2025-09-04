@@ -5,7 +5,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler, ContextTypes
 
 # --- CONFIG ---
-BOT_TOKEN = "7869422405:AAGu-_GNbcfx2M22d5ZEoyZa6pmlY2XOeNk"
+BOT_TOKEN = "8440134175:AAGwbDaTqkamFgD9C-EmlHxlZAgeFipNy30"
 FIREBASE_CREDENTIALS_PATH = "fire.json"
 FIREBASE_DB_URL = "https://clint-bot-101-default-rtdb.firebaseio.com/"
 
