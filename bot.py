@@ -6,7 +6,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, CallbackQueryHandler
 
 # --- Configuration ---
-TELEGRAM_BOT_TOKEN = "7869422405:AAEa-juW9IfdJTr2zPOP5b48Np7jOP0K6lY"  # Your Bot Token
+TELEGRAM_BOT_TOKEN = "7869422405:AAGu-_GNbcfx2M22d5ZEoyZa6pmlY2XOeNk"  # Your Bot Token
 FIREBASE_CREDENTIALS_PATH = "fire.json" # Path to your Firebase Admin SDK JSON file
 FIREBASE_DB_URL = "https://clint-bot-101-default-rtdb.firebaseio.com/" # Your Firebase Realtime Database URL
 
